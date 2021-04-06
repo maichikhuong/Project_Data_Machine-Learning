@@ -1,0 +1,1 @@
+sử dụng mô hình LogisticRegression để dự đoán hành vi quyết định mua hàng của khách

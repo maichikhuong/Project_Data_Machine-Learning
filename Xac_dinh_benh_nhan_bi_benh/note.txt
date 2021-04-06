@@ -1,0 +1,2 @@
+
+- Dự trên các chỉ số sức khỏe và mô hinh LogisticRegression + RandomForestClassifier để dự đoán ra người có bị mắc bệnh hay không

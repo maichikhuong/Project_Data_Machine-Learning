@@ -1,0 +1,2 @@
+-- Sử dụng mô hình Linear Regression để dự đoán giá cổ phiếu
+

@@ -1,0 +1,3 @@
+-- khảo sát, phân tích dữ liệu
+
+-- dựa trên dữ liệu và mô hình RandomForest để dự đoán ra xem khách nào có thể cho vay và khách hàng nào không thể cho vay
